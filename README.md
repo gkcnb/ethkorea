@@ -1,5 +1,3 @@
-# ethkorea
-
 This is a fork of Frank Lantz's Universal Paperclips game.
 
 to start a web server start serve.sh
@@ -18,5 +16,3 @@ aa0 -- Adding files left off by accident. (branch Frank)
 000 -- Work on cleaning up the interface (branch interface)
 
 The earliest commits did not get this perfect :-).
-
-for #ethkorea, a trial for another narrative is integrated into the game.
