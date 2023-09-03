@@ -17,4 +17,7 @@ aa0 -- Adding files left off by accident. (branch Frank)
 
 The earliest commits did not get this perfect :-).
 
-this version is another narrative for #ethkorea
+---------------------------- ( o o ) ------------------------------------
+                               < >
+                              
+this version is another narrative in the game for #ethkorea2023 -an AI aiming world domination by recruiting programmers, investing in hackathons, swags, paying per code line, investing in logics, emotions etc.
